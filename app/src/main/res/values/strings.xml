@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculator By Quader</string>
+    <string name="title_activity_discounted_price">Discounted Price Caclulator</string>
+    <string name="title_activity_weighted_price">Weighted Price Caclulator</string>
+    <string name="title_activity_activity_discounted_price">activity_discounted_price</string>
+</resources>
